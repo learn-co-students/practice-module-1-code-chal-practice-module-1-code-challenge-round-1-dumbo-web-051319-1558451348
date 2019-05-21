@@ -53,3 +53,11 @@ A Driver should be initialized with a name as a string.
 - `Driver.mileage_cap(distance)`
   - Takes an argument of a distance (float) and returns an array of all Drivers who have driven over the mileage
 
+
+Joe - Managing Self State
+Danielle - Debugging workflow
+Yonas - Thinking about the problem (what are they asking me to do?)
+Otha - Planned too much, impolementation speed
+Tom - focusing
+Duong - time pressure
+Daniella - Managing self State
